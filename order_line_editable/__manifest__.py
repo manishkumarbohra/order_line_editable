@@ -19,7 +19,7 @@
         'views/res_configuration.xml',
         'views/sales_views.xml',
     ],
-    'images': ['static/description/ole.png'],
+    'images': ['static/description/ole.gif'],
     'depends': ['base', 'sale', 'sales_team', 'sale_management'],
     'installable': True,
     'auto_install': False,
